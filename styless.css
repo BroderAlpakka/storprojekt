@@ -148,3 +148,7 @@ footer {
     width: 100%;
     position: absolute;
 }
+
+.content-infoo{
+    align-items: center;
+}
